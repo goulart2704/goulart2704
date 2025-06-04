@@ -18,7 +18,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulart2704&layout=compact&langs_count=3&theme=dark&hide=python,java,c,c++,php" />
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajh4b3lzdW0wY3VsbG5vZ2hwMnY3ajA3NmFtZ3RhY3d6amU2a2drbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VfKQ1KqYAOycVVLFlW/giphy.gif" width="250px" />
+      <img src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDVpbGFjdm80ZmNrMHVjbjN2OXR2YnZoaWpncTYzanB6cHVkNWVuMSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qbtSJYQgUIVgs/giphy.gif />
     </td>
   </tr>
 </table>
