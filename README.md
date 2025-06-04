@@ -1,1 +1,19 @@
-## 👋 Olá! Meu nome é Samuel Goulart  🎓 Sou estudante do 3º ano do Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas  💻 Apaixonado por tecnologia, programação e resolução de problemas  📚 Estou sempre aprendendo e explorando novas linguagens, ferramentas e projetos  🚀 Buscando oportunidades para crescer na área de desenvolvimento de software  ## 📊 GitHub Stats  ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goulart2704&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goulart2704&layout=compact&langs_count=3&theme=dark&hide=python,java,c,c++,php)  ## 🧠 Tecnologias que estou estudando  <p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </p>   
+## 👋 Olá! Meu nome é Samuel Goulart  
+
+🎓 Sou estudante do 3º ano do Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas  
+
+💻 Apaixonado por tecnologia, programação e resolução de problemas  
+
+📚 Estou sempre aprendendo e explorando novas linguagens, ferramentas e projetos  
+
+🚀 Buscando oportunidades para crescer na área de desenvolvimento de software  ## 
+
+📊 GitHub Stats 
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goulart2704&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goulart2704&layout=compact&langs_count=3&theme=dark&hide=python,java,c,c++,php) 
+
+## 🧠 Tecnologias que estou estudando 
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </p>   
