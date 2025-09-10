@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/IBM SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </div>
 
 <picture align="center">
