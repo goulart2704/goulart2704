@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-## 🧠 Tecnologias que estou estudando
+## 🧠 Linguagens e Tecnologias que estou estudando
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
