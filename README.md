@@ -19,16 +19,27 @@ Sou estudante do ensino médio focado em tecnologia e desenvolvimento web.
 
 ## 🛠 Tecnologias
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
+## 🎓 Formação e Certificados
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goulart2704&show_icons=true&theme=shadow_green" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goulart2704&show_icons=true&theme=" />
 </p>
 
 <p align="center">
