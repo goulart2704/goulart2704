@@ -39,11 +39,11 @@ Sou estudante do ensino médio focado em tecnologia e desenvolvimento web.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goulart2704&show_icons=true&theme=" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goulart2704&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=goulart2704&theme=shadow_green" />
+  <img src="https://streak-stats.demolab.com?user=goulart2704&theme=dark" />
 </p>
 
 ---
